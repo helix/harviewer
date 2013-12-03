@@ -19,6 +19,7 @@
 # Build Files
 /extension/build/
 /extension/release/
+/webapp-build/
 *.graphml
 
 # Files from NPM
